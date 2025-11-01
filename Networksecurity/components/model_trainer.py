@@ -26,12 +26,14 @@ from sklearn.ensemble import (
 import mlflow
 from urllib.parse import urlparse
 
-import dagshub
+
 import mlflow
 
 # # Step 1: connect to MLflow tracking server
 # mlflow.set_tracking_uri("http://127.0.0.1:5000")
 # mlflow.set_experiment("traces-quickstart")
+import dagshub
+dagshub.init(repo_owner='AlhassanAbubakarjnr', repo_name='my-first-repo', mlflow=True)
 
 class ModelTrainer:
     def __init__(self,model_trainer_config:ModelTrainerConfig,data_transformation_artifact:DataTransformationArtifact):
