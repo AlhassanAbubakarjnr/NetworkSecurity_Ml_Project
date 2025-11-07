@@ -1,0 +1,93 @@
+Abnormal_URL:
+  drift_status: false
+  p_value: 1.0
+DNSRecord:
+  drift_status: false
+  p_value: 0.9998688545448693
+Domain_registeration_length:
+  drift_status: false
+  p_value: 1.0
+Favicon:
+  drift_status: false
+  p_value: 0.7463404136818756
+Google_Index:
+  drift_status: false
+  p_value: 0.9378891333552324
+HTTPS_token:
+  drift_status: false
+  p_value: 1.0
+Iframe:
+  drift_status: false
+  p_value: 1.0
+Links_in_tags:
+  drift_status: false
+  p_value: 0.9999999881751745
+Links_pointing_to_page:
+  drift_status: false
+  p_value: 0.9999998567959814
+Page_Rank:
+  drift_status: false
+  p_value: 0.4154237165446072
+Prefix_Suffix:
+  drift_status: false
+  p_value: 0.9851734872154138
+Redirect:
+  drift_status: false
+  p_value: 1.0
+Request_URL:
+  drift_status: false
+  p_value: 1.0
+Result:
+  drift_status: false
+  p_value: 0.3826188022443807
+RightClick:
+  drift_status: false
+  p_value: 0.9999999999999148
+SFH:
+  drift_status: false
+  p_value: 0.9697727875445914
+SSLfinal_State:
+  drift_status: false
+  p_value: 0.5227936918991543
+Shortining_Service:
+  drift_status: false
+  p_value: 0.9999745994767623
+Statistical_report:
+  drift_status: false
+  p_value: 0.9464914399762021
+Submitting_to_email:
+  drift_status: false
+  p_value: 1.0
+URL_Length:
+  drift_status: false
+  p_value: 1.0
+URL_of_Anchor:
+  drift_status: false
+  p_value: 0.6623306311021729
+age_of_domain:
+  drift_status: false
+  p_value: 0.9999999999999999
+double_slash_redirecting:
+  drift_status: false
+  p_value: 0.9999999881751745
+having_At_Symbol:
+  drift_status: false
+  p_value: 0.9939782507422374
+having_IP_Address:
+  drift_status: false
+  p_value: 0.9999321298038519
+having_Sub_Domain:
+  drift_status: false
+  p_value: 0.45484159212040787
+on_mouseover:
+  drift_status: false
+  p_value: 0.9999999999999919
+popUpWidnow:
+  drift_status: false
+  p_value: 0.6453138528352841
+port:
+  drift_status: false
+  p_value: 0.9998688545448693
+web_traffic:
+  drift_status: false
+  p_value: 0.9999999999981217

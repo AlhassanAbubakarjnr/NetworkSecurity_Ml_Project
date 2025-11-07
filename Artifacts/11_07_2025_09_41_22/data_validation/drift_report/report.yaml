@@ -1,0 +1,93 @@
+Abnormal_URL:
+  drift_status: false
+  p_value: 0.9999671272734229
+DNSRecord:
+  drift_status: false
+  p_value: 1.0
+Domain_registeration_length:
+  drift_status: false
+  p_value: 0.9999999881751745
+Favicon:
+  drift_status: false
+  p_value: 0.999999965908459
+Google_Index:
+  drift_status: false
+  p_value: 0.9999983994854099
+HTTPS_token:
+  drift_status: false
+  p_value: 0.9999988894018609
+Iframe:
+  drift_status: false
+  p_value: 1.0
+Links_in_tags:
+  drift_status: false
+  p_value: 0.5281942333058421
+Links_pointing_to_page:
+  drift_status: false
+  p_value: 0.995612761564881
+Page_Rank:
+  drift_status: false
+  p_value: 0.9657727423695286
+Prefix_Suffix:
+  drift_status: false
+  p_value: 1.0
+Redirect:
+  drift_status: false
+  p_value: 0.999999999988434
+Request_URL:
+  drift_status: false
+  p_value: 0.9999999962612656
+Result:
+  drift_status: false
+  p_value: 0.5227936918991491
+RightClick:
+  drift_status: false
+  p_value: 1.0
+SFH:
+  drift_status: false
+  p_value: 0.9999999439197564
+SSLfinal_State:
+  drift_status: false
+  p_value: 0.8624907735168821
+Shortining_Service:
+  drift_status: false
+  p_value: 1.0
+Statistical_report:
+  drift_status: false
+  p_value: 0.8047373429702858
+Submitting_to_email:
+  drift_status: false
+  p_value: 0.9999999881751745
+URL_Length:
+  drift_status: false
+  p_value: 0.7242595407673655
+URL_of_Anchor:
+  drift_status: false
+  p_value: 0.9491923880973568
+age_of_domain:
+  drift_status: false
+  p_value: 1.0
+double_slash_redirecting:
+  drift_status: false
+  p_value: 0.9972361772209788
+having_At_Symbol:
+  drift_status: false
+  p_value: 0.999999999870135
+having_IP_Address:
+  drift_status: false
+  p_value: 0.9113528343599856
+having_Sub_Domain:
+  drift_status: false
+  p_value: 0.9798953580695315
+on_mouseover:
+  drift_status: false
+  p_value: 1.0
+popUpWidnow:
+  drift_status: false
+  p_value: 0.9999999997295194
+port:
+  drift_status: false
+  p_value: 1.0
+web_traffic:
+  drift_status: false
+  p_value: 0.9999462839353719
