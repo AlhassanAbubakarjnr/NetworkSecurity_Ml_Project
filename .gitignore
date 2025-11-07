@@ -5,3 +5,5 @@ venv312/
 .env
 *.venv
 logs/
+".env" 
+"__pycache__/" 
