@@ -7,3 +7,26 @@ venv312/
 logs/
 ".env" 
 "__pycache__/" 
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+venv312/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Docker
+*.log
+
+# Environment files
+.env
