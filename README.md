@@ -24,10 +24,15 @@ It covers every phase of a modern ML lifecycle — **data collection**, **traini
 
 ## 🧩 Architecture
 
-### 🧠 MLOps Pipeline Architecture
 
-![MLOps Architecture](https://github.com/AlhassanAbubakarjnr/NetworkSecurity_Ml_Project/raw/main/docs/mlops_architecture.jpg)
 
+## 🧠 MLOps Architecture
+
+<p align="center">
+  <img src="https://github.com/AlhassanAbubakarjnr/NetworkSecurity_Ml_Project/raw/main/docs/mlops_architecture.jpg" 
+       alt="MLOps Architecture" 
+       width="600"/>
+</p>
 
 > *The architecture illustrates the complete end-to-end MLOps workflow — from data ingestion in MongoDB, model training & tracking with MLflow/DagsHub, to automated CI/CD deployment on Azure Web App.*
 
